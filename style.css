@@ -1,0 +1,24 @@
+#sidebar {
+    width: 200px;
+    height: 800px;
+    background-color: #f5f1e6;
+    border-right: 3px solid;
+    box-shadow: 1000%;
+    text-align: center;
+}
+#home {
+    color: black;
+  text-align: center;
+}
+#htmlt {
+    font-family: cursive;
+
+}             
+#intro {
+    color: black;
+    text-align: center; 
+}
+#editor {
+    color: black;
+    text-align: center;  
+}
